@@ -1,3 +1,14 @@
+# 📘 Weekly Learnings - CP
+
+This repository is a personal log of my weekly learning journey in Competitive Programming and related concepts.  
+Each week, I practice new topics, write code snippets, and document what I've learned.
+
+---
+
+## 📁 Folder Structure
+
+Each week's learning is stored in its own folder like this:
+
 ## 📁 Folder Structure
 
 Each week’s learning is stored in its own folder like this:
@@ -36,4 +47,3 @@ This is my personal learning repo — not accepting PRs, but feel free to fork, 
 📧 Contact
 Wanna say hi or collab on something CP/DSA related?
 📬 https://github.com/Lut4Sayem
-
